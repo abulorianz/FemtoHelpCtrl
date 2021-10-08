@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\bin\Debug\Custom Controls.exe.config
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\bin\Debug\Custom Controls.exe
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\bin\Debug\Custom Controls.pdb
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom_Controls.CustomControls.CustomTextBox.resources
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom_Controls.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls.exe
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls.pdb

@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\bin\Release\FemtoHelp_CustomControls.dll
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\bin\Release\FemtoHelp_CustomControls.pdb
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Release\Custom_Controls.CustomControls.CustomTextBox.resources
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Release\Custom_Controls.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Release\Custom Controls.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Release\Custom Controls.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Release\FemtoHelp_CustomControls.dll
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Release\FemtoHelp_CustomControls.pdb
+C:\Users\LENOVO\source\repos\Custom Controls\Custom Controls\obj\Release\Custom Controls.csproj.AssemblyReference.cache
