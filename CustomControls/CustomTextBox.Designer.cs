@@ -1,4 +1,4 @@
-﻿namespace Custom_Controls
+namespace The_Manager.CustemCtrl
 {
     partial class Custom
     {
