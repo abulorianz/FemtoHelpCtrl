@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -9,7 +9,7 @@ using System.Windows.Forms;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 
-namespace Custom_Controls
+namespace The_Manager.CustemCtrl
 {
     [DefaultEvent("_TextChanged")]
     public partial class Custom : UserControl
